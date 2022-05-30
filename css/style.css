@@ -194,8 +194,8 @@ section{
     border: 0.1rem solid #d3ad7f ;
 }
 .menu .box-container::-webkit-scrollbar{
-    width: 5px;
-    height: 5px;
+    width: 10px;
+    height: 1px;
    
 }
 .menu .box-container::-webkit-scrollbar-track   {
