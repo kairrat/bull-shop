@@ -195,7 +195,7 @@ section{
 }
 .menu .box-container::-webkit-scrollbar{
     width: 10px;
-    color: #13131a;
+    color: inherit;
 }
 .menu .box-container .box img{
     padding: 1rem;
